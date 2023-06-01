@@ -1,5 +1,4 @@
 <p align="left">Hi there 👋, I'm Ahlam Laouadi 👨‍💻 Welcome to my Github profile!</p>
-<p> 👨‍💻 Web Developer | MERN stack & LARAVEL</p>
 
 <h2 align="left">💻 Tech Stack:</h2>
 <div align="left">
